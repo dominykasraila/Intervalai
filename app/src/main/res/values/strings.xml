@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intervals</string>
+    <string-array name="spinnerItems">
+        <item>u</item>
+        <item>m2</item>
+        <item>d2</item>
+        <item>m3</item>
+        <item>d3</item>
+        <item>g4</item>
+        <item>t</item>
+        <item>g5</item>
+        <item>m6</item>
+        <item>d6</item>
+        <item>m7</item>
+        <item>d7</item>
+        <item>g8</item>
+    </string-array>
+</resources>
